@@ -14,7 +14,7 @@
         <div class="p-lg-5 mx-auto box-middle" style="z-index:100">
             <div class="mb-3 px-3 pb-3">
                 <h2 class="display-5">Schéma de Lewis</h2>
-                <p class="lead">Récupérez le schéma de Lewis d'un atome ayant jusqu'à 8 électrons</p>
+                <p class="lead">Récupérez le schéma de Lewis d'un atome</p>
             </div>
             <form class="m-auto col-10 col-md-8 col-lg-6 col-xl-8 pb-4">
                 <label for="inputLewis">Entrez le nom, le symbole ou le nombre d'électrons d'un atome.</label>
