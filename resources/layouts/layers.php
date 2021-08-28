@@ -6,7 +6,7 @@
             <button class="btn btn-outline-dark" data-action="slide-down">Utiliser cet outil</button>
         </div>
         <div class="arrow-left">
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/public/img/arrow.svg') ?>
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/img/arrow.svg') ?>
         </div>
     </div>
     <div class="position-relative h-100 w-100 d-flex">
@@ -28,7 +28,7 @@
             </div>
         </div>
         <div class="arrow-left">
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/public/img/arrow.svg') ?>
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/img/arrow.svg') ?>
         </div>
     </div>
 </div>
