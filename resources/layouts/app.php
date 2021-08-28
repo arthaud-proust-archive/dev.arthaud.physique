@@ -28,7 +28,7 @@
     <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/img/apple-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="/assets/img/apple-icon-144x144.png">
     <link href="/assets/img/favicon.ico" rel="shortcut icon">
 </head>
 <body>
